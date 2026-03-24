@@ -71,3 +71,14 @@ Civics Track bridges this gap by creating a transparent, interactive, and citize
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/civics-track.git
+2.Install dependencies:
+Bash
+npm install       # For Node.js frontend/backend
+# or
+pip install -r requirements.txt   # For Python backend
+Run the application:
+Bash
+npm start   # Frontend
+npm run server   # Backend
+# or
+python app.py
